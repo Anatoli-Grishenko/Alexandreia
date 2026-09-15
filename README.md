@@ -13,7 +13,7 @@ My astrophotography activity dressed with some personal thoughts
 
 # Sacred Geometry Series
 
-A journey for the history of the human beigns which show how its evolution required the development of some sort of algebraic knowledge. Different civilizations, even in opposite sides of Earth, but same algebraic solutions.
+A journey for the history of the human beings which show how its evolution required the development of some sort of algebraic knowledge. Different civilizations, even in opposite sides of Earth, but same algebraic solutions.
 
 | | | | |
 | :---: |:---: |:---: |:---: |
