@@ -5,6 +5,7 @@ Welcome to my particular, and very personal, Library of Alexandria. I will leave
 # Astropedia Series
 
 My astrophotography activity dressed with some personal thoughts
+
 | | | | |
 | :---: |:---: |:---: |:---: |
 |![](Pics/Supernova_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/SuperNova_US_EBook.pdf)<br> 62 Pages. English.||||
@@ -13,4 +14,8 @@ My astrophotography activity dressed with some personal thoughts
 # Sacred Geometry Series
 
 A journey for the history of the human beigns which show how its evolution required the development of some sort of algebraic knowledge. Different civilizations, even in opposite sides of Earth, but same algebraic solutions.
+
+| | | | |
+| :---: |:---: |:---: |:---: |
+|![](Pics/Civilizations_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US_EBook.pdf)<br> 74 Pages. English.|![](Pics/Egypt_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/DynasticEgypt_US_EBook.pdf)<br> 88 Pages. English.|![](Pics/Mesopotamia_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Mesopotamia_US_EBook.pdf)<br> 68 Pages. English.||
 
