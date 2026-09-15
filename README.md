@@ -17,5 +17,5 @@ A journey for the history of the human beigns which show how its evolution requi
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|![](Pics/Civilizations_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US_EBook.pdf)<br> 62 Pages. English.|![](Pics/Egypt_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/DynasticEgypt_US_EBook.pdf)<br> 62 Pages. English.|![](Pics/Mesopotamia_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Mesopotamia_US_EBook.pdf)<br> 62 Pages. English.||
+|![](Pics/Civilizations_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US_EBook.pdf)<br> 74 Pages. English.|![](Pics/Egypt_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/DynasticEgypt_US_EBook.pdf)<br> 88 Pages. English.|![](Pics/Mesopotamia_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Mesopotamia_US_EBook.pdf)<br> 68 Pages. English.||
 
