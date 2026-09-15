@@ -5,8 +5,9 @@ Welcome to my particular, and very personal, Library of Alexandria. I will leave
 # Astropedia Series
 
 My astrophotography activity dressed with some personal thoughts
-
-![](Pics/Supernova_US.jpg) [Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/SuperNova_US_EBook.pdf) 62 Pages. English.
+| | | | |
+| :---: |:---: |:---: |:---: |
+|![](Pics/Supernova_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/SuperNova_US_EBook.pdf)<br> 62 Pages. English.||||
 
 
 # Sacred Geometry Series
