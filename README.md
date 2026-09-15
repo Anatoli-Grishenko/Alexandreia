@@ -6,6 +6,6 @@ Welcome to my particular, and very personal, Library of Alexandria. I will leave
 
 My astrophotography activity dressed with some personal thoughts
 
-[https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/SuperNova_US_EBook.pdf](Pics/Supernova_US.jpg) 62 Pages. English.
+![Pics/Supernova_US.jpg](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/SuperNova_US_EBook.pdf) 62 Pages. English.
 
 
