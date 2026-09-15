@@ -8,7 +8,7 @@ My astrophotography activity dressed with some personal thoughts
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|![](Pics/Supernova_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/SuperNova_US_EBook.pdf)<br> 62 Pages. English.|![](Pics/Moon_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US_EBook.pdf)<br> 102 Pages. English.|![](Pics/Moon_ES_EBook.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_ES_EBook.pdf)<br> 79 Pages. English.||
+|![](Pics/Supernova_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/SuperNova_US_EBook.pdf)<br> 62 Pages. English.|![](Pics/Moon_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US_EBook.pdf)<br> 102 Pages. English.|![](Pics/Moon_ES.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_ES_EBook.pdf)<br> 79 Páginas. Español.||
 
 
 # Sacred Geometry Series
