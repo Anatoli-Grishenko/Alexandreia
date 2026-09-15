@@ -9,3 +9,7 @@ My astrophotography activity dressed with some personal thoughts
 ![](Pics/Supernova_US.jpg) [Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/SuperNova_US_EBook.pdf) 62 Pages. English.
 
 
+# Sacred Geometry Series
+
+A journey for the history of the human beigns which show how its evolution required the development of some sort of algebraic knowledge. Different civilizations, even in opposite sides of Earth, but same algebraic solutions.
+
