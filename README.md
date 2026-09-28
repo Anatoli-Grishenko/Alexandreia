@@ -23,6 +23,6 @@ A journey for the history of the human beings which show how its evolution requi
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|![](Pics/Galaxies_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Gaaxies_US_A3Poster.pdf)<br> 2 A3-Pages. English.|![](Pics/Nebulae_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_US_A3Poster.pdf)<br> 6 A3-Pages. English.|![](Pics/Stars_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Stars_US_A3Poster.pdf)<br> 3 A3-Pages. English.||
+|![](Pics/Galaxies_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Galaxies_US_A3Poster.pdf)<br> 2 A3-Pages. English.|![](Pics/Nebulae_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_US_A3Poster.pdf)<br> 6 A3-Pages. English.|![](Pics/Stars_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Stars_US_A3Poster.pdf)<br> 3 A3-Pages. English.||
 
 
