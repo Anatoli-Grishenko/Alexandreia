@@ -19,3 +19,10 @@ A journey for the history of the human beings which show how its evolution requi
 | :---: |:---: |:---: |:---: |
 |![](Pics/Civilizations_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US_EBook.pdf)<br> 74 Pages. English.|![](Pics/Egypt_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/DynasticEgypt_US_EBook.pdf)<br> 88 Pages. English.|![](Pics/Mesopotamia_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Mesopotamia_US_EBook.pdf)<br> 68 Pages. English.||
 
+# A3 Posters
+
+| | | | |
+| :---: |:---: |:---: |:---: |
+|![](Pics/Galaxies_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Gaaxies_US_A3Poster.pdf)<br> 2 A3-Pages. English.|![](Pics/Nebulae_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_US_A3Poster.pdf)<br> 6 A3-Pages. English.|![](Pics/Stars_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Stars_US_A3Poster.pdf)<br> 3 A3-Pages. English.||
+
+
