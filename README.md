@@ -25,7 +25,7 @@ Fables are kind of a tiny lecture which transport the reader to an ancient place
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|![](Pics/Zoco_Isfahan.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Ifahan.pdf)<br> 2 pages English.||||
+|![](Pics/Zoco_Isfahan.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan.pdf)<br> 2 pages English.||||
 
 
 # A3 Posters
