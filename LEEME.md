@@ -8,7 +8,7 @@ Mi actividad de astrofotografía, acompañada de algunas reflexiones personales.
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src=Pics/Supernova_ES.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/Descargar/The_Shelf/Supernova_ES.pdf)<br> 40 páginas. Español.|<img src="Pics/Luna.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/Descargar/The_Shelf/Luna.pdf)<br> 100 páginas. Español.|||
+|<img src="Pics/Supernova_ES.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/Descargar/The_Shelf/Supernova_ES.pdf)<br> 40 páginas. Español.|<img src="Pics/Luna.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/Descargar/The_Shelf/Luna.pdf)<br> 100 páginas. Español.|||
 
 
 # Serie Geometría Sagrada
@@ -28,13 +28,13 @@ Las fábulas son una especie de breve lección que transporta al lector a un lug
 | :---: |:---: |:---: |:---: |
 |<img src="Pics/Zoco_Isfahan_ES.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/Descargar/The_Shelf/Fable_Zoco_Isfahan_ES.pdf)<br> 16 páginas Español.|<img src="Pics/Isis_ES.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/Descargar/The_Shelf/FableIsis_ES.pdf)<br> 14 páginas English.|||
 
-# Mathematical background
+# Fundamentos matemáticos
 
-The formulae which describe everything
+Las fórmulas que lo demuestran todo
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Formularium_US.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/Descargar/The_Shelf/Formularium_US.pdf)<br> 60 páginas. Español.||||
+|<img src="Pics/Formularium_US.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/Descargar/The_Shelf/Formularium_US.pdf)<br> 60 páginas. English.||||
 
 # A3 Posters
 
