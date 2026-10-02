@@ -4,20 +4,22 @@ Welcome to my particular, and very personal, Library of Alexandria. I will leave
 
 # Astropedia Series
 
-My astrophotography activity dressed with some personal thoughts
+My astrophotography activity dressed with some personal thoughts.
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|![](Pics/Supernova_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/SuperNova_US_EBook.pdf)<br> 62 Pages. English.|![](Pics/Moon_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US_EBook.pdf)<br> 102 Pages. English.|![](Pics/Moon_ES.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_ES_EBook.pdf)<br> 79 Páginas. Español.||
+|<img src="Pics/Supernova_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)<br> 40 Pages. English.|<img src="Pics/Moon_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)<br> 100 Pages. English.|||
 
 
 # Sacred Geometry Series
 
 A journey for the history of the human beings which show how its evolution required the development of some sort of algebraic knowledge. Different civilizations, even in opposite sides of Earth, but same algebraic solutions.
 
+## Origins
+
 | | | | |
 | :---: |:---: |:---: |:---: |
-|![](Pics/Civilizations_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US_EBook.pdf)<br> 74 Pages. English.|![](Pics/Egypt_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/DynasticEgypt_US_EBook.pdf)<br> 88 Pages. English.|![](Pics/Mesopotamia_US.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Mesopotamia_US_EBook.pdf)<br> 68 Pages. English.||
+|<img src="Pics/Civilizations_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)<br> 40 Pages. English.|<img src="Pics/Rising_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)<br> 34 Pages. English.|<img src="Pics/Epiphany_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Epiphany_US.pdf)<br> 41 Pages. English.||
 
 ### Fables Sacred Geometry
 
@@ -25,13 +27,20 @@ Fables are kind of a tiny lecture which transport the reader to an ancient place
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|![](Pics/Zoco_Isfahan.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US_EBook.pdf)<br> 2 pages English.||||
+|<img src="Pics/Zoco_Isfahan_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US_EBook.pdf)<br> 16 pages English.||||
 
+# Mathematical background
+
+The formulae which describe everything
+
+| | | | |
+| :---: |:---: |:---: |:---: |
+|<img src="Pics/Formularium_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Formularium_US.pdf)<br> 60 Pages. English.||||
 
 # A3 Posters
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|![](Pics/Galaxies_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Galaxies_US_A3Poster.pdf)<br> 2 A3-Pages. English.|![](Pics/Nebulae_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_US_A3Poster.pdf)<br> 6 A3-Pages. English.|![](Pics/Stars_A3.jpg) <br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Stars_US_A3Poster.pdf)<br> 3 A3-Pages. English.||
+|<img src="Pics/Galaxies_A3.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Galaxies_US_A3Poster.pdf)<br> 2 A3-Pages. English.|<img src="Pics/Nebulae_A3.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_US_A3Poster.pdf)<br> 6 A3-Pages. English.|<img src="Pics/Stars_A3.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Stars_US_A3Poster.pdf)<br> 3 A3-Pages. English.||
 
 
