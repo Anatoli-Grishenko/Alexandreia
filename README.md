@@ -19,7 +19,7 @@ A journey for the history of the human beings which show how its evolution requi
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Civilizations_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)<br> 40 Pages. English.|<img src="Pics/Rising_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)<br> 34 Pages. English.|<img src="Pics/Epiphany_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Epiphany_US.pdf)<br> 41 Pages. English.||
+|<img src="Pics/Civilizations_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)<br> 40 Pages. English.|<img src="Pics/Rising_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)<br> 34 Pages. English.|<img src="Pics/Epiphany_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_US.pdf)<br> 41 Pages. English.||
 
 ### Fables Sacred Geometry
 
@@ -27,7 +27,7 @@ Fables are kind of a tiny lecture which transport the reader to an ancient place
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Zoco_Isfahan_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US_EBook.pdf)<br> 16 pages English.||||
+|<img src="Pics/Zoco_Isfahan_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US.pdf)<br> 16 pages English.||||
 
 # Mathematical background
 
