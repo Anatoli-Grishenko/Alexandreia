@@ -1,6 +1,6 @@
 ![](Pics/Alexandreia.jpg)<br>[Image Credits](https://en.wikipedia.org/wiki/Library_of_Alexandria#/media/File:Ancientlibraryalex.jpg)
 
-Welcome to my particular, and very personal, Library of Alexandria. I will leave here EPUBs, PDFs, JPGs, ... whatever publication means is fine to me. I write about my thoughts, my Astrophotography activity, my research on Humanism, code, or whatever I connsider worth sharing. Please feel yourself at home and take whatever you want. Everything is free under Creative Commons Licence.
+Welcome to my particular, and very personal, Library of Alexandria. I will leave here EPUBs, PDFs, JPGs, ... whatever publication means is fine to me. I write about my thoughts, my Astrophotography activity, my research on Humanism, code, or whatever I connsider worth sharing. Please feel yourself at home and take whatever you want. Everything is free under Creative Commons Licence. [Leer en Español](./LEEME.md)
 
 # Astropedia Series
 
@@ -27,7 +27,7 @@ Fables are kind of a tiny lecture which transport the reader to an ancient place
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Zoco_Isfahan_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US.pdf)<br> 16 pages English.||||
+|<img src="Pics/Zoco_Isfahan_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US.pdf)<br> 16 pages English.|<img src="Pics/Isis_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/FableIsis_US.pdf)<br> 14 pages English.|||
 
 # Mathematical background
 
