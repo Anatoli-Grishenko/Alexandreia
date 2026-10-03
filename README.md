@@ -44,3 +44,10 @@ The formulae which describe everything
 |<img src="Pics/Galaxies_A3.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Galaxies_US_A3Poster.pdf)<br> 2 A3-Pages. English.|<img src="Pics/Nebulae_A3.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_US_A3Poster.pdf)<br> 6 A3-Pages. English.|<img src="Pics/Stars_A3.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Stars_US_A3Poster.pdf)<br> 3 A3-Pages. English.||
 
 
+# Photo Albums
+
+| | | | |
+| :---: |:---: |:---: |:---: |
+|<img src="Pics/Targets.jpg" width="256"/><br>[Access](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> My Astrophotography targets.|<img src="Pics/Textures.jpg" width="256"/><br>[Access](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> Some targets, when show in Grayscale, High-Contrast pictures, unveil a secret texture|||
+
+

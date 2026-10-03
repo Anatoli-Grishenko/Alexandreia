@@ -43,3 +43,10 @@ Las fórmulas que lo demuestran todo
 |<img src="Pics/Galaxies_A3.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Galaxies_US_A3Poster.pdf)<br> 2 A3-páginas. Español.|<img src="Pics/Nebulae_A3.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_US_A3Poster.pdf)<br> 6 A3-páginas. Español.|<img src="Pics/Stars_A3.jpg" width="256"/><br>[Descargar](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Stars_US_A3Poster.pdf)<br> 3 A3-páginas. Español.||
 
 
+# Álbumes de fotos
+
+| | | | |
+| :---: |:---: |:---: |:---: |
+|<img src="Pics/Targets.jpg" width="256"/><br>[Acceder](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> Mis objetivos de astrofotografía.|<img src="Pics/Textures.jpg" width="256"/><br>[Acceder](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> Algunos objetivos, al mostrarse en imágenes de alto contraste y escala de grises, revelan una textura oculta.|||
+
+
