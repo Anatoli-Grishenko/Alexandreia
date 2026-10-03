@@ -48,6 +48,6 @@ The formulae which describe everything
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Targets.jpg" width="256"/><br>[Access](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> My Astrophotography targets.|<img src="Pics/Textures.jpg" width="256"/><br>[Access](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> Some targets, when show in Grayscale, High-Contrast pictures, unveil a secret texture|||
+|<img src="Pics/Targets.jpg" width="256"/><br>[Access](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> My Astrophotography targets.|<img src="Pics/Textures.jpg" width="256"/><br>[Access](https://photos.google.com/share/AF1QipMq0R_ymsy97V2qRqo8IHu3yi1lP3weYZ5h5BGkYRWd0gIr72_P9vMEcdeLpUCzFg?key=V1kzaUIteTRkbTZMVjZhNm8wVE9SMm5RdmszQXVn)<br> Some targets, when show in Grayscale, High-Contrast pictures, unveil a secret texture|||
 
 

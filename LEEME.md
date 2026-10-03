@@ -47,6 +47,6 @@ Las fórmulas que lo demuestran todo
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Targets.jpg" width="256"/><br>[Acceder](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> Mis objetivos de astrofotografía.|<img src="Pics/Textures.jpg" width="256"/><br>[Acceder](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> Algunos objetivos, al mostrarse en imágenes de alto contraste y escala de grises, revelan una textura oculta.|||
+|<img src="Pics/Targets.jpg" width="256"/><br>[Acceder](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> Mis objetivos de astrofotografía.|<img src="Pics/Textures.jpg" width="256"/><br>[Acceder](https://photos.google.com/share/AF1QipMq0R_ymsy97V2qRqo8IHu3yi1lP3weYZ5h5BGkYRWd0gIr72_P9vMEcdeLpUCzFg?key=V1kzaUIteTRkbTZMVjZhNm8wVE9SMm5RdmszQXVn)<br> Algunos objetivos, al mostrarse en imágenes de alto contraste y escala de grises, revelan una textura oculta.|||
 
 
