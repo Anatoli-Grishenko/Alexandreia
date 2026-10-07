@@ -8,7 +8,7 @@ My astrophotography activity dressed with some personal thoughts.
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Supernova_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)<br> 40 Pages. English.|<img src="Pics/Moon_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)<br> 100 Pages. English.|||
+|<img src="Pics/Supernova_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)<br> 40 Pages. English.|<img src="Pics/Moon_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)<br> 100 Pages. English.|||
 
 
 # Sacred Geometry Series
@@ -19,7 +19,7 @@ A journey for the history of the human beings which show how its evolution requi
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Civilizations_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)<br> 40 Pages. English.|<img src="Pics/Rising_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)<br> 34 Pages. English.|<img src="Pics/Epiphany_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_US.pdf)<br> 41 Pages. English.||
+|<img src="Pics/Civilizations_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)<br> 40 Pages. English.|<img src="Pics/Rising_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)<br> 34 Pages. English.|<img src="Pics/Epiphany_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_US.pdf)<br> 41 Pages. English.||
 
 ### Fables Sacred Geometry
 
@@ -27,7 +27,7 @@ Fables are kind of a tiny lecture which transport the reader to an ancient place
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Zoco_Isfahan_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US.pdf)<br> 16 pages English.|<img src="Pics/Isis_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/FableIsis_US.pdf)<br> 14 pages English.|||
+|<img src="Pics/Zoco_Isfahan_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US.pdf)<br> 16 pages English.|<img src="Pics/Isis_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/FableIsis_US.pdf)<br> 14 pages English.|||
 
 # Mathematical background
 
@@ -35,19 +35,13 @@ The formulae which describe everything
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Formularium_US.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Formularium_US.pdf)<br> 60 Pages. English.||||
+|<img src="Pics/Formularium_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Formularium_US.pdf)<br> 60 Pages. English.||||
 
-# A3 Posters
+# A3 Posters Nebulae
 
-| | | | |
-| :---: |:---: |:---: |:---: |
-|<img src="Pics/Galaxies_A3.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Galaxies_US_A3Poster.pdf)<br> 2 A3-Pages. English.|<img src="Pics/Nebulae_A3.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_US_A3Poster.pdf)<br> 6 A3-Pages. English.|<img src="Pics/Stars_A3.jpg" width="256"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Stars_US_A3Poster.pdf)<br> 3 A3-Pages. English.||
-
-
-# Photo Albums
-
-| | | | |
-| :---: |:---: |:---: |:---: |
-|<img src="Pics/Targets.jpg" width="256"/><br>[Access](https://photos.google.com/share/AF1QipMfOyiYFXOfufwzL-vobq87cWIYSdkNMjFDsio4RSUzBOFbewxpSloUHtAMNWWUbQ?key=cVRiZ2R4YU5uN3FzZHVXaVRlR2lIY1hseHhYbzRR)<br> My Astrophotography targets.|<img src="Pics/Textures.jpg" width="256"/><br>[Access](https://photos.google.com/share/AF1QipMq0R_ymsy97V2qRqo8IHu3yi1lP3weYZ5h5BGkYRWd0gIr72_P9vMEcdeLpUCzFg?key=V1kzaUIteTRkbTZMVjZhNm8wVE9SMm5RdmszQXVn)<br> Some targets, when show in Grayscale, High-Contrast pictures, unveil a secret texture|||
+| | | |
+| :---: |:---: |:---: |
+|<img src="Pics/Nebulae_I_A3_US.jpg" width="128"/><br>**Nebulae I**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_I_US_A3.pdf)<br> 1 A3-Pages. English.|<img src="Pics/Nebulae_II_A3_US.jpg" width="128"/><br>**Nebulae II**<br>|<img src="Pics/Nebulae_III_A3_US.jpg" width="128"/><br>**Nebulae III**<br>|
+|<img src="Pics/Nebulae_IV_A3_US.jpg" width="128"/><br>**Nebulae IV**<br>|<img src="Pics/Nebulae_V_A3_US.jpg" width="128"/><br>**Nebulae V**<br>|<img src="Pics/Nebulae_VI_A3_US.jpg" width="128"/><br>**Nebulae VI**<br>|
 
 
