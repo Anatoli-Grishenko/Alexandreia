@@ -41,7 +41,7 @@ The formulae which describe everything
 
 | | | |
 | :---: |:---: |:---: |
-|<img src="Pics/Nebulae_I_A3_US.jpg" width="128"/><br>**Nebulae I**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_I_US_A3.pdf)<br> 1 A3-Pages. English.|<img src="Pics/Nebulae_II_A3_US.jpg" width="128"/><br>**Nebulae II**<br>|<img src="Pics/Nebulae_III_A3_US.jpg" width="128"/><br>**Nebulae III**<br>|
-|<img src="Pics/Nebulae_IV_A3_US.jpg" width="128"/><br>**Nebulae IV**<br>|<img src="Pics/Nebulae_V_A3_US.jpg" width="128"/><br>**Nebulae V**<br>|<img src="Pics/Nebulae_VI_A3_US.jpg" width="128"/><br>**Nebulae VI**<br>|
+|<img src="Pics/Nebulae_I_A3_US.jpg" width="128"/><br>**Nebulae I**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_I_US_A3.pdf)<br> 1 A3-Pages. English.|<img src="Pics/Nebulae_II_A3_US.jpg" width="128"/><br>**Nebulae II**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_II_US_A3.pdf)<br> 1 A3-Pages. English.|<img src="Pics/Nebulae_III_A3_US.jpg" width="128"/><br>**Nebulae III**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_III_US_A3.pdf)<br> 1 A3-Pages. English.|
+|<img src="Pics/Nebulae_IV_A3_US.jpg" width="128"/><br>**Nebulae IV**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_IV_US_A3.pdf)<br> 1 A3-Pages. English.|<img src="Pics/Nebulae_V_A3_US.jpg" width="128"/><br>**Nebulae V**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/NebulaeVI_US_A3.pdf)<br> 1 A3-Pages. English.|<img src="Pics/Nebulae_VI_A3_US.jpg" width="128"/><br>**Nebulae VI**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Nebulae_VI_US_A3.pdf)<br> 1 A3-Pages. English.|
 
 
