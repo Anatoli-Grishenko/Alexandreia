@@ -8,7 +8,7 @@ My astrophotography activity dressed with some personal thoughts.
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Supernova_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)<br> 40 Pages. English.|<img src="Pics/Moon_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)<br> 100 Pages. English.|||
+|<img src="Pics/Supernova_US.jpg" width="128"/><br>**Supernova: The Death of titans**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)<br> 40 Pages. English.|<img src="Pics/Moon_US.jpg" width="128"/><br>**Our Moon**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)<br> 100 Pages. English.|||
 
 
 # Sacred Geometry Series
@@ -19,7 +19,7 @@ A journey for the history of the human beings which show how its evolution requi
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Civilizations_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)<br> 40 Pages. English.|<img src="Pics/Rising_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)<br> 34 Pages. English.|<img src="Pics/Epiphany_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_US.pdf)<br> 41 Pages. English.||
+|<img src="Pics/Civilizations_US.jpg" width="128"/><br>**Human Civilizations**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)<br> 40 Pages. English.|<img src="Pics/Rising_US.jpg" width="128"/><br>**The Rising of Homo Sapiens**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)<br> 34 Pages. English.|<img src="Pics/Epiphany_US.jpg" width="128"/><br>**The Epiphany**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_US.pdf)<br> 41 Pages. English.||
 
 ### Fables Sacred Geometry
 
@@ -27,7 +27,7 @@ Fables are kind of a tiny lecture which transport the reader to an ancient place
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Zoco_Isfahan_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US.pdf)<br> 16 pages English.|<img src="Pics/Isis_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/FableIsis_US.pdf)<br> 14 pages English.|||
+|<img src="Pics/Zoco_Isfahan_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US.pdf)<br>**The Zoco of Isfahan**<br> 16 pages English.|<img src="Pics/Isis_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/FableIsis_US.pdf)<br>**The Temple of Isis**<br> 14 pages English.|||
 
 # Mathematical background
 
@@ -35,7 +35,7 @@ The formulae which describe everything
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Formularium_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Formularium_US.pdf)<br> 60 Pages. English.||||
+|<img src="Pics/Formularium_US.jpg" width="128"/><br>**The Formularium**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Formularium_US.pdf)<br> 60 Pages. English.||||
 
 # A3 Posters Nebulae
 
