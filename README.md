@@ -17,7 +17,7 @@ A journey for the history of the human beings which show how its evolution requi
 
 ## Origins
 
-(Resumen hecho con IA) Estos tres EBooks reflexionan sobre cómo las matemáticas, la geometría y la astronomía sustentan la realidad y han guiado el desarrollo de las civilizaciones humanas. A través de una perspectiva histórica y matemática, aborda la evolución del Homo Sapiens, destacando que nuestro mayor valor distintivo es el cuidado mutuo y la cohesión social frente a las adversidades. Asimismo, explora conceptos fundamentales como el principio creativo "1:2:3" y la geometría sagrada presentes tanto en la naturaleza como en diversas culturas.
+(AI-generated summary) These three e-books reflect on how mathematics, geometry, and astronomy underpin reality and have guided the development of human civilizations. Through a historical and mathematical lens, they examine the evolution of *Homo sapiens*, highlighting that our most significant distinguishing trait is mutual care and social cohesion in the face of adversity. Furthermore, they explore fundamental concepts such as the "1:2:3" creative principle and sacred geometry, which appear both in the natural world and across various cultures.
 
 | | | | |
 | :---: |:---: |:---: |:---: |
@@ -25,7 +25,7 @@ A journey for the history of the human beings which show how its evolution requi
 
 ## Dynastic Egypt
 
-(Resumen hecho con IA) Estos tres EBooks exploran cómo los escribas y sacerdotes del antiguo Egipto desarrollaron matemáticas y geometría de carácter práctico. A través de problemas del Papiro Rhind, aborda el reparto eficiente de alimentos con fracciones unitarias y la medición de terrenos de cultivo tras las crecidas del Nilo. Además, analiza la creación del calendario solar y la precisión en la alineación geométrica y astronómica de las pirámides de Guiza. 
+(AI-generated summary) These three e-books explore how the scribes and priests of ancient Egypt developed practical mathematics and geometry. Drawing on problems from the Rhind Papyrus, the text examines the efficient distribution of food using unit fractions, as well as the measurement of farmland following the flooding of the Nile. Furthermore, it analyzes the creation of the solar calendar and the precision involved in the geometric and astronomical alignment of the Giza pyramids.
 
 | | | | |
 | :---: |:---: |:---: |:---: |
