@@ -50,7 +50,7 @@ The formulae which describe everything
 | :---: |:---: |:---: |:---: |
 |<img src="Pics/Moon_I_A3_US.jpg" width="128"/><br>**Moon I**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Moon_I_US_A3.pdf)<br> 1 A3-Pages. English.|<img src="Pics/Moon_II_A3_US.jpg" width="128"/><br>**Moon II**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Moon_II_US_A3.pdf)<br> 1 A3-Pages. English.|<img src="Pics/Moon_III_A3_US.jpg" width="128"/><br>**Moon III**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Moon_III_US_A3.pdf)<br> 1 A3-Pages. English.|<img src="Pics/Moon_IV_A3_US.jpg" width="128"/><br>**Moon IV**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Moon_IV_US_A3.pdf)<br> 1 A3-Pages. English.|
 
-# Smartpphone wallpapers
+# Smartphone wallpapers
 
 | | | | |
 | :---: |:---: |:---: |:---: |
