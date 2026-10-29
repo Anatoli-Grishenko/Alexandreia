@@ -17,9 +17,20 @@ A journey for the history of the human beings which show how its evolution requi
 
 ## Origins
 
+(Resumen hecho con IA) Estos tres EBooks reflexionan sobre cómo las matemáticas, la geometría y la astronomía sustentan la realidad y han guiado el desarrollo de las civilizaciones humanas. A través de una perspectiva histórica y matemática, aborda la evolución del Homo Sapiens, destacando que nuestro mayor valor distintivo es el cuidado mutuo y la cohesión social frente a las adversidades. Asimismo, explora conceptos fundamentales como el principio creativo "1:2:3" y la geometría sagrada presentes tanto en la naturaleza como en diversas culturas.
+
 | | | | |
 | :---: |:---: |:---: |:---: |
 |<img src="Pics/Civilizations_US.jpg" width="128"/><br>**Human Civilizations**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)<br> 40 Pages. English.|<img src="Pics/Rising_US.jpg" width="128"/><br>**The Rising of Homo Sapiens**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)<br> 34 Pages. English.|<img src="Pics/Epiphany_US.jpg" width="128"/><br>**The Epiphany**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_US.pdf)<br> 41 Pages. English.||
+
+## Dynastic Egypt
+
+(Resumen hecho con IA) Estos tres EBooks exploran cómo los escribas y sacerdotes del antiguo Egipto desarrollaron matemáticas y geometría de carácter práctico. A través de problemas del Papiro Rhind, aborda el reparto eficiente de alimentos con fracciones unitarias y la medición de terrenos de cultivo tras las crecidas del Nilo. Además, analiza la creación del calendario solar y la precisión en la alineación geométrica y astronómica de las pirámides de Guiza. 
+
+| | | | |
+| :---: |:---: |:---: |:---: |
+|<img src="Pics/Egyptian_Civilization_US.jpg" width="128"/><br>**The Egyptian Civilization**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Egyptian_Civilizations_US_EBook.pdf)<br> 18 Pages. English.|<img src="Pics/Egyptian_Maths_US.jpg" width="128"/><br>**Egyptian Maths to Survive**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Egyptian_Maths_US_EBook.pdf)<br> 34 Pages. English.|<img src="Pics/Egyptian_Giza_US.jpg" width="128"/><br>**The Great Pyramid of Giza**<br>[Download](https://giub.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Egypt_Giza_US_EBook.pdf)<br> 24 Pages. English.||
+
 
 ### Fables Sacred Geometry
 
