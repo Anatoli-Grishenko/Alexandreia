@@ -29,7 +29,7 @@ A journey for the history of the human beings which show how its evolution requi
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Egyptian_Civilization_US.jpg" width="128"/><br>**The Egyptian Civilization**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Egyptian_Civilizations_US_EBook.pdf)<br> 18 Pages. English.|<img src="Pics/Egyptian_Maths_US.jpg" width="128"/><br>**Egyptian Maths to Survive**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Egyptian_Maths_US_EBook.pdf)<br> 34 Pages. English.|<img src="Pics/Egyptian_Giza_US.jpg" width="128"/><br>**The Great Pyramid of Giza**<br>[Download](https://giub.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Egypt_Giza_US_EBook.pdf)<br> 24 Pages. English.||
+|<img src="Pics/Egyptian_Civilization_US.jpg" width="128"/><br>**The Egyptian Civilization**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Egyptian_Civilization_US_EBook.pdf)<br> 18 Pages. English.|<img src="Pics/Egyptian_Maths_US.jpg" width="128"/><br>**Egyptian Maths to Survive**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Egyptian_Maths_US_EBook.pdf)<br> 34 Pages. English.|<img src="Pics/Egyptian_Giza_US.jpg" width="128"/><br>**The Great Pyramid of Giza**<br>[Download](https://giub.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Egypt_Giza_US_EBook.pdf)<br> 24 Pages. English.||
 
 
 ### Fables Sacred Geometry
