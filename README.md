@@ -65,6 +65,6 @@ The formulae which describe everything
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Orion_Cover.jpg" width="128"/><br>**Great Orion Nebula**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Orion_Running_Mairan_Nebula+sm.jpg)||||
+|<img src="Pics/Orion_Cover.png" width="128"/><br>**Great Orion Nebula**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Orion_Running_Mairan_Nebula+sm.jpg)||||
 
 
