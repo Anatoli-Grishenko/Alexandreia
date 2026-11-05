@@ -55,7 +55,9 @@ The formulae which describe everything
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/UnumEtDiversum.jpg" width="128"/><br>**Unum Et Diversum**<br>[▶️](https://drive.google.com/file/d/1arXmnsY1fGxm6JAafdlW--1xoCrGCxu9/view?usp=drive_link)<br> Spanish||||
+|<img src="Pics/UnumEtDiversum.jpg" width="128"/><br>**Día 1. Unidos en la diversidad**<br>[▶️](https://drive.google.com/file/d/1arXmnsY1fGxm6JAafdlW--1xoCrGCxu9/view?usp=drive_link)<br> Spanish|<img src="Pics/Sagan.jpg" width="128"/><br>**Día 2. Sagan**<br>[▶️](https://drive.google.com/file/d/18qBg8wvfkLTVBPYKPxgqMdwhKyfTmDQ-/view?usp=drive_link)<br> Spanish|<img src="Pics/Koch.jpg" width="128"/><br>**Día 3. Koch**<br>[▶️](https://drive.google.com/file/d/1pKGhXJPvO-CcD1TUL-9pyFwNzBAPn3ny/view?usp=drive_link)<br> Spanish|<img src="Pics/Humble.jpg" width="128"/><br>**Día 4. Humildad**<br>[▶️](https://drive.google.com/file/d/1Y-vLPwIJ3t-f_NxhFj5LoBjXrhElQp2-/view?usp=drive_link)<br> Spanish|
+
+
 
 
 
