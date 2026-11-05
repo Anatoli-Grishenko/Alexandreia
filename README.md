@@ -50,7 +50,7 @@ The formulae which describe everything
 
 # Vídeos
 
-[![Ver vídeo Unum et Diversum](Pics/miniatura_video.jpg)](https://drive.google.com/file/d/1v7_o4zfA-CCg3Jx87xuHTyM4B4mgBlMM/view?usp=sharing)
+[![Ver vídeo Unum et Diversum](Pics/UnumEtDiversum.jpg)](https://drive.google.com/file/d/1v7_o4zfA-CCg3Jx87xuHTyM4B4mgBlMM/view?usp=sharing)
 
 
 # A3 Posters Nebulae
