@@ -50,11 +50,7 @@ The formulae which describe everything
 
 # Vídeos
 
-<video controls playsinline preload="metadata" style="max-width: 380px; width: 100%; height: auto; border-radius: 8px;">
-  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-  Tu navegador no soporta reproducción de vídeo HTML5.
-</video>
-
+[![Ver vídeo Unum et Diversum](Pics/miniatura_video.jpg)](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/UnumEtDiversum.mp4)
 # A3 Posters Nebulae
 
 | | | |
