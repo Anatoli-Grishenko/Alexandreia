@@ -55,10 +55,8 @@ The formulae which describe everything
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/UnumEtDiversum.jpg" width="64"/><br>**Unum Et Diversum**<br>[▶️](https://drive.google.com/file/d/1v7_o4zfA-CCg3Jx87xuHTyM4B4mgBlMM/view?usp=sharingf)<br> Spanish||||
+|<img src="Pics/UnumEtDiversum.jpg" width="128"/><br>**Unum Et Diversum**<br>[▶️](https://drive.google.com/file/d/1v7_o4zfA-CCg3Jx87xuHTyM4B4mgBlMM/view?usp=sharingf)<br> Spanish||||
 
-
-[![Ver vídeo Unum et Diversum](Pics/UnumEtDiversum.jpg)](https://drive.google.com/file/d/1v7_o4zfA-CCg3Jx87xuHTyM4B4mgBlMM/view?usp=sharing)
 
 
 # A3 Posters Nebulae
