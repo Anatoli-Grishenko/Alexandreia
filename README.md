@@ -50,7 +50,8 @@ The formulae which describe everything
 
 # Vídeos
 
-[![Ver vídeo Unum et Diversum](Pics/miniatura_video.jpg)](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/UnumEtDiversum.mp4)
+[▶ Ver vídeo Unum et Diversum (Streaming)](https://cdn.staticaly.com/gh/Anatoli-Grishenko/Alexandreia/The_Shelf/UnumEtDiversum.mp4)
+
 # A3 Posters Nebulae
 
 | | | |
