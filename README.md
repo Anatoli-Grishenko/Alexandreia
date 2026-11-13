@@ -24,8 +24,8 @@ A journey for the history of the human beings which show how its evolution requi
 | | | | |
 | :---: |:---: |:---: |:---: |
 |<img src="Pics/Civilizations_US.jpg" width="128"/><br> 40 Pages|<img src="Pics/Rising_US.jpg" width="128"/><br>34 pages|<img src="Pics/Epiphany_US.jpg" width="128"/><br>40 pages||
-|[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)|[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)|[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_US.pdf)||
-|[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_ES.pdf)|[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_ES.pdf)|[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_ES.pdf)||
+|**Human Civilizations**<br>[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)|**The Rising of Homo Sapiens**<br>[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)|**The Epiphany**<br>[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_US.pdf)||
+|**Civilizaciones Humanas**<br>[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_ES.pdf)|**El Surgimiento del Homo Sapiens**<br>[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_ES.pdf)|**La Epifanía**<br>	[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_ES.pdf)||
 
 ## Dynastic Egypt
 
