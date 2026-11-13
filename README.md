@@ -1,6 +1,6 @@
 ![](Pics/Alexandreia.jpg)<br>[Image Credits](https://en.wikipedia.org/wiki/Library_of_Alexandria#/media/File:Ancientlibraryalex.jpg)
 
-Welcome to my particular, and very personal, Library of Alexandria. I will leave here EPUBs, PDFs, JPGs, ... whatever publication means is fine to me. I write about my thoughts, my Astrophotography activity, my research on Humanism, code, or whatever I connsider worth sharing. Please feel yourself at home and take whatever you want. Everything is free under Creative Commons Licence. [Leer en Español](./LEEME.md)
+Welcome to my particular, and very personal, Library of Alexandria. I will leave here EPUBs, PDFs, JPGs, ... whatever publication means is fine to me. I write about my thoughts, my Astrophotography activity, my research on Humanism, code, or whatever I connsider worth sharing. Please feel yourself at home and take whatever you want. Everything is free under Creative Commons Licence.
 
 # Astropedia Series
 
@@ -8,7 +8,7 @@ My astrophotography activity dressed with some personal thoughts.
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Supernova_US.jpg" width="128"/><br>**Supernova: The Death of titans**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)<br> 40 Pages. English.|<img src="Pics/Moon_US.jpg" width="128"/><br>**Our Moon**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)<br> 100 Pages. English.|||
+|<img src="Pics/Supernova_US.jpg" width="128"/><br>40 pages<br>**Supernova: The Death of titans**<br>[Download English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)|<img src="Pics/Moon_US.jpg" width="128"/><br>**Our Moon**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)<br> 100 Pages. English.|||
 
 
 # Sacred Geometry Series
