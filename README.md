@@ -42,7 +42,10 @@ Fables are kind of a tiny lecture which transport the reader to an ancient place
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Zoco_Isfahan_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US.pdf)<br>**The Zoco of Isfahan**<br> 16 pages English.|<img src="Pics/Isis_US.jpg" width="128"/><br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/FableIsis_US.pdf)<br>**The Temple of Isis**<br> 14 pages English.|||
+|<img src="Pics/Zoco_Isfahan_US.jpg" width="128"/><br>16 pages|<img src="Pics/Isis_US.jpg" width="128"/><br>14 pages|||
+|**The Zoco of Isfahan**<br> [Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US.pdf)|**The Temple of Isis**<br>[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/FableIsis_US.pdf)||
+|**El Zoco de Isfahán**<br>[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Fable_Zoco_Isfahan_US.pdf)|**El Templo de Isis**<br>[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/FableIsis_US.pdf)||
+
 
 ## Mathematical background
 
