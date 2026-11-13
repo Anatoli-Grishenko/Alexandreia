@@ -9,8 +9,8 @@ My astrophotography activity dressed with some personal thoughts.
 | | | | |
 | :---: |:---: |:---: |:---: |
 |<img src="Pics/Supernova_US.jpg" width="128"/><br>40 pages|<img src="Pics/Moon_US.jpg" width="128"/><br>100 Pages|||
-|**Supernova: The Death of titans**<br>[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)|**Our Moon**<br>[Download English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)|||
-|**Supernova: La Muerte de Titanes**<br>[Descargar en Español 🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_ES.pdf)|**Nuestra Luna**<br>[Descargar en Español 🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Luna.pdf)|||
+|**Supernova: The Death of titans**<br>[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)|**Our Moon**<br>[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)|||
+|**Supernova: La Muerte de Titanes**<br>[Descargar en Español (Trad. IA)🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_ES.pdf)|**Nuestra Luna**<br>[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Luna.pdf)|||
 
 
 # Sacred Geometry Series
@@ -23,7 +23,9 @@ A journey for the history of the human beings which show how its evolution requi
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Civilizations_US.jpg" width="128"/><br>**Human Civilizations**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)<br> 40 Pages. English.|<img src="Pics/Rising_US.jpg" width="128"/><br>**The Rising of Homo Sapiens**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)<br> 34 Pages. English.|<img src="Pics/Epiphany_US.jpg" width="128"/><br>**The Epiphany**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_US.pdf)<br> 41 Pages. English.||
+|<img src="Pics/Civilizations_US.jpg" width="128"/><br> 40 Pages|<img src="Pics/Rising_US.jpg" width="128"/><br>34 pages|<img src="Pics/Epiphany_US.jpg" width="128"/><br>40 pages||
+|[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_US.pdf)|[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_US.pdf)|[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_US.pdf)||
+|[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Civilizations_ES.pdf)|[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/RisingSapiens_ES.pdf)|[Descargar en Español (Trad. IA)	🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/TheEpiphany_ES.pdf)||
 
 ## Dynastic Egypt
 
