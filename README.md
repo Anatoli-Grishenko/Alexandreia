@@ -8,7 +8,9 @@ My astrophotography activity dressed with some personal thoughts.
 
 | | | | |
 | :---: |:---: |:---: |:---: |
-|<img src="Pics/Supernova_US.jpg" width="128"/><br>40 pages<br>**Supernova: The Death of titans**<br>[Download English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)|<img src="Pics/Moon_US.jpg" width="128"/><br>**Our Moon**<br>[Download](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)<br> 100 Pages. English.|||
+|<img src="Pics/Supernova_US.jpg" width="128"/><br>40 pages|<img src="Pics/Moon_US.jpg" width="128"/><br>100 Pages|||
+|**Supernova: The Death of titans**<br>[Download in English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_US.pdf)|**Our Moon**<br>[Download English 🇬🇧](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/OurMoon_US.pdf)|||
+|**Supernova: La Muerte de Titanes**<br>[Descargar en Español 🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Supernova_ES.pdf)|**Nuestra Luna**<br>[Descargar en Español 🇪🇸](https://github.com/Anatoli-Grishenko/Alexandreia/releases/download/The_Shelf/Luna.pdf)|||
 
 
 # Sacred Geometry Series
